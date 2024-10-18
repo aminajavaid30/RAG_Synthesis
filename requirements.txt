@@ -1,0 +1,9 @@
+langchain-community
+pypdf
+docx2txt
+beautifulsoup4
+langchain-experimental
+langchain-huggingface
+faiss-cpu
+python-dotenv
+langchain-groq
